@@ -1,0 +1,14 @@
+layout_spectrum: 0.6750345998443663
+typography_spectrum: 0.9314712132327259
+color:
+  brandStrength: 0.3647787976078689
+  lightness: 0.17856484442017972
+  saturation: 0.5074113607406616
+  rhythmicContrast: 0.4803754964377731
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: DMAI
